@@ -1,2 +1,2 @@
 # Clone-netflix
-clone de index netflix
+Mas com animes, chamado nerdflix
